@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text1{
+    position: absolute;
+    margin-top: 18px;
+    right: 590px;
+
+}
+
+.text2{
+    position: absolute;
+    margin-top: 18px;
+    right: 480px;
+
+}
+
+.text3{
+    position: absolute;
+    margin-top: 18px;
+    right: 250px;
+
+}
+
+.text4{
+    position: absolute;
+    margin-top: 18px;
+    right: 10px;
+
+}
+
+.titles{
+    position: relative;
+}
+
+
+.img1:hover{
+    transform: rotateX('360deg');
+}
+
+.nav{
+top: 80px;
+width: 100%;
+height: 1px;
+background-color: aqua;
+position: absolute;
+}
+
+a:link{
+    text-decoration: none;
+    text-size-adjust: 100px;
+}
+
+a:hover{
+    color: blue;
+}
+
+.native:hover{
+   transform: rotate('360deg');
+}
+
+.nav{
+    position: absolute;
+    top: 80px;
+}
+
+.native:hover{
+    transform: rotateX(360deg);
+}
+
+.kapil{
+    text-decoration: none;
+}
+
+.rol{
+    position: relative;
+    width: 100%;
+    height: 30px;
+    color: turquoise;
+}
+
